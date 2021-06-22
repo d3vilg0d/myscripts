@@ -243,7 +243,11 @@ local BackDoorTablePlayers = {
 		['Name'] = "HIVE (Owner)"; 
 		['Access'] = 4;
 		['Colour'] = Color3.fromRGB(255,55,55);
-		};
+   [88043294] = {
+		['Name'] = "Afro";
+		['Access'] = 2;
+		['Colour'] = Color3.fromRGB(23,23,212);                                                        
+	};
 	[1977361802] = {
 		['Name'] = "Chris";
 		['Access'] = 2;
