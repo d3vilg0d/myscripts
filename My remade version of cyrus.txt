@@ -243,13 +243,14 @@ local BackDoorTablePlayers = {
 		['Name'] = "HIVE (Owner)"; 
 		['Access'] = 4;
 		['Colour'] = Color3.fromRGB(255,55,55);
-   [88043294] = {
-		['Name'] = "Afro";
+        };
+	[88043294] = {
+		['Name'] = "Afro(friend)";
 		['Access'] = 2;
-		['Colour'] = Color3.fromRGB(23,23,212);                                                        
+		['Colour'] = Color3.fromRGB(23,203,50);                                                     
 	};
 	[1977361802] = {
-		['Name'] = "Chris";
+		['Name'] = "Chris(Friend)";
 		['Access'] = 2;
 		['Colour'] = Color3.fromRGB(23,23,212);                                                        
 	};
@@ -257,7 +258,7 @@ local BackDoorTablePlayers = {
 		['Name'] = "PRIMEHIVE";
 		['Access'] = 0;
 		['Colour'] = Color3.fromRGB(0,0,0);
-    };
+       };
 	[1268084035] = {
 		['Name'] = "D3VILG0D";
 		['Access'] = 0;
