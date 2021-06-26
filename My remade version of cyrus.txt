@@ -244,6 +244,11 @@ local BackDoorTablePlayers = {
 		['Access'] = 4;
 		['Colour'] = Color3.fromRGB(255,55,55);
         };
+	[93791160] = {
+		['Name'] = "counterthem (H34RtSL1tS's main)(Friend)";
+		['Access'] = 2;
+		['Colour'] = Color3.fromRGB(120,250,100); 
+        };
 	[2498967359] = {
 		['Name'] = "fatmin epic admino B) (H34RtSL1tS)(Friend)";
 		['Access'] = 2;
